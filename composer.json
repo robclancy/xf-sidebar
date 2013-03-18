@@ -1,0 +1,7 @@
+{
+	"require": {
+		"robclancy/xf-support": "1.0.*"
+	},
+
+	"minimum-stability": "dev"
+}

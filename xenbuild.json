@@ -1,0 +1,12 @@
+{
+	"id": "robboSidebar",
+	"name": "Sidebar Manager",
+	"version": "Build: {revision}",
+	"url": "http://github.com/robclancy/xf-sidebar",
+
+	"library": "src/Robbo/Sidebar",
+	"composer": true,
+
+	"include-libs": [],
+	"include-js": []
+}
